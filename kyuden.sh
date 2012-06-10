@@ -1,3 +1,4 @@
+#!/bin/sh
 # 東京電力の場合はこっち
 # API_URI=http://tepco-usage-api.appspot.com/quick.txt
 # 九州電力用API
